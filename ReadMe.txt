@@ -38,4 +38,4 @@ ReadMe zum Game-Of-Life
 
 
 GitHub Link:
-https://github.com/mcgeek4719/game-of-life-prog2
+https://github.com/mcgeek4719/bsdggdshagdskasgd
