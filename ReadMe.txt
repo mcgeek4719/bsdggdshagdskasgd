@@ -35,3 +35,7 @@ ReadMe zum Game-Of-Life
 
     => Nutzung von KI:
         - Claude 4.6 wurde verwendet, um die Logik für das Mouseclickdragging - Methode "handleMousDragged" zu entwerfen, welche dann von mir an mein Programm angepasst wurde
+
+
+GitHub Link:
+https://github.com/mcgeek4719/game-of-life-prog2
