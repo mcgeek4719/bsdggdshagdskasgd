@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html","k":"18"},{"p":"com.example.gameoflife","l":"GameOfLifeApp"},{"p":"com.example.gameoflife.logic","l":"GameOfLifeGrid"},{"p":"com.example.gameoflife.gui","l":"GameOfLifeView"},{"p":"com.example.gameoflife.logic","l":"StartPattern","k":"9"}];updateSearchResults();
