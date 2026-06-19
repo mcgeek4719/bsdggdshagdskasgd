@@ -1,4 +1,4 @@
-package com.example.gameoflife.logic;
+package com.gameoflife.logic;
 
 //Klasse für die Logik des Grids
 

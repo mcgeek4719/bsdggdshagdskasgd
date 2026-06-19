@@ -1,8 +1,8 @@
-package com.example.gameoflife;
+package com.gameoflife;
 
-import com.example.gameoflife.gui.GameOfLifeView;
-import com.example.gameoflife.logic.GameOfLifeGrid;
-import com.example.gameoflife.logic.StartPattern;
+import com.gameoflife.gui.GameOfLifeView;
+import com.gameoflife.logic.GameOfLifeGrid;
+import com.gameoflife.logic.StartPattern;
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.application.Application;

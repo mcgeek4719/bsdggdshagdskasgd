@@ -1,4 +1,4 @@
-package com.example.gameoflife.logic;
+package com.gameoflife.logic;
 
 public enum StartPattern {
 

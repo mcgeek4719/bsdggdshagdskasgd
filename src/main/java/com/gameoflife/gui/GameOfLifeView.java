@@ -1,6 +1,6 @@
-package com.example.gameoflife.gui;
+package com.gameoflife.gui;
 
-import com.example.gameoflife.logic.GameOfLifeGrid;
+import com.gameoflife.logic.GameOfLifeGrid;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
